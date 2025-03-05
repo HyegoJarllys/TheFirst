@@ -1,2 +1,4 @@
 # TheFirst
- primeiro repositório de estudos
+ Primeiro repositório de estudos!
+
+ 2025 é o Ano!
